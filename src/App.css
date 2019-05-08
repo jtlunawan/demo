@@ -31,3 +31,10 @@
     transform: rotate(360deg);
   }
 }
+.popup img{
+  position:absolute;
+  top: 45%;
+  left: 70%;
+  width: 20%;
+  /* visibility: hidden; */
+}
